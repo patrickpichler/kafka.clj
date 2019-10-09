@@ -1,0 +1,7 @@
+{:paths ["src" "classes"]
+
+ :deps {org.clojure/clojure {:mvn/version "1.10.1"}
+        dvlopt/void {:mvn/version "0.0.1"}
+        org.apache.kafka/kafka-clients {:mvn/version "2.1.0"}
+        org.apache.kafka/kafka-streams {:mvn/version "2.1.0"}
+        org.apache.kafka/kafka-streams-test-utils {:mvn/version "2.1.0"}}}
